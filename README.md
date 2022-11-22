@@ -49,6 +49,9 @@ This repository is created and maintained by the team and the community of Hexle
   * [~~Тестовое задание Aviasales (frontend)~~ DEPRECATED *(JS, TS, CS, React)*](https://github.com/KosyanMedia/test-tasks/tree/master/DEPRECATED_aviasales)
 
 * [avito.tech](https://github.com/avito-tech)
+  * [Тестовое задание на позицию стажёра в iOS 2022 *(Swift)*](https://github.com/avito-tech/internship_ios_2022)
+  * [Тестовое задание на позицию стажёра-фронтендера 2022 *(React, Redux, TS)*](https://github.com/avito-tech/internship_frontend_2022)
+  * [Тестовое задание на позицию стажёра-бэкендера 2022 *(Go, MySQL/PostgreSQL, Docker)*](https://github.com/avito-tech/internship_backend_2022)
   * [Тестовое задание для стажёра Backend в команду Advertising *(Go/PHP)*](https://github.com/avito-tech/adv-backend-trainee-assignment)
   * [Тестовое задание для стажёра Android (archived) *(Kotlin/Java)*](https://github.com/avito-tech/android-trainee-task)
   * [Тестовая задача для разработчика-стажёра в команду Информационной безопасности Авито для защиты сайта от ботов *(Go/Python)*](https://github.com/avito-tech/antibot-developer-trainee)
@@ -119,11 +122,6 @@ This repository is created and maintained by the team and the community of Hexle
 * [CS-Cart](https://cs-cart.com/)
   * [Тестовое задание для PHP разработчиков *(PHP)*](https://github.com/cscart/apply-for-job/tree/master/backend/developer)
   * [Тестовое задание для Javascript разработчика *(JS, jQuery)*](https://github.com/cscart/apply-for-job/tree/master/frontend/developer)
-
-* [CSSSR](https://csssr.ru)
-  *(задания в конце каждой страницы)*
-  * [Middle front-end разработчик *(React)*](https://csssr.com/ru-ru/jobs/middle-js-developer)
-  * [Middle back-end разработчик *(Java/Kotlin)*](https://csssr.com/ru-ru/jobs/java-developer)
 
 * [DAO TECH](https://daotech.ru/)
   * [Тестовое задание на вакансию "Frontend Developer" *(JS, React, Docker)*](https://drive.google.com/file/d/17i3HWkCW8OdvmczEcE2p3q-ljU-2sAWz/view?usp=sharing)
@@ -219,11 +217,11 @@ This repository is created and maintained by the team and the community of Hexle
   * [Тестовое задание для веб разработчика *(PHP, MySQL)*](https://isdigi.ru/is/job/web-programmer-2/test-web-dev-junior/)
 
 * [Ivelum](https://ivelum.com/)
-  * [Python-разработчик *(Python, Django)*](https://github.com/ivelum/job/blob/master/challenges/python.md)
+  * [Python-разработчик *(Python)*](https://github.com/ivelum/job/blob/master/challenges/python.md)
   * [PHP-разработчик *(PHP)*](https://github.com/ivelum/job/blob/master/challenges/php.md)
-  * [frontend-разработчик *(React)*](https://github.com/ivelum/job/blob/master/challenges/php.md)
+  * [frontend-разработчик *(React)*](https://github.com/ivelum/job/blob/master/challenges/frontend.md)
 
-* [Juno Inc.](https://gojuno.com/)
+* ~~[Juno Inc.](https://gojuno.com/)~~ (сайт не доступен)
   * [Test Task: In-memory cache *(eng)* *(Go)*](https://github.com/gojuno/test_tasks)
 
 * [KODE](https://kode.ru/)
@@ -283,6 +281,10 @@ This repository is created and maintained by the team and the community of Hexle
   * [Django Developer *(в Контент)*](https://github.com/ostrovok-team/code-challenge/blob/master/python/content-tech-task.md)
   * [DevOps engineer](https://github.com/ostrovok-team/code-challenge/tree/master/devops)
 
+* [Oxem Studio](https://oxem.ru)
+  * [Фронтенд-разработчик *(React/Vue, вёрстка)*](https://doc.clickup.com/2659433/p/h/2h539-67321/1cdca9cd67897c8)
+  * [Бэкенд-разработчик *(PHP)*](https://doc.clickup.com/p/h/2h539-778/840ce49e651e59a)
+
 * [Procom](https://csoprocom.com.ua/)
   * [Frontend-разработчик *(JS, Angular)*](https://csoprocom.com.ua/info/frontend1.pdf)
 
@@ -306,12 +308,16 @@ This repository is created and maintained by the team and the community of Hexle
   * [Middle Frontend Developer *(ECMAScript, SCSS)*](https://github.com/ruport-digital/middle-frontend-assignment)
   * [Junior Frontend Developer *(верстка)*](https://github.com/ruport-digital/junior-frontend-assignment)
 
+* [Scandiweb](https://scandiweb.com/)
+  * [GraphQL endpoint for Junior Developer position in Scandiweb *(ENG)* *(TS, GraphQL)*](https://github.com/scandiweb/junior-react-endpoint)
+
 * [Sendsay](https://sendsay.ru/)
   * [Junior Frontend + QA [АРХИВ] *(JS, Cypress)*](https://www.notion.so/sendsay/Junior-Frontend-QA-44af3daa06524689aa6ac0fc76f66579)
   * [Frontend-разработчик 1 [АРХИВ] *(JS, React, Redux)*](https://www.notion.so/sendsay/Frontend-4263b61293224088b7c3f929b761f9e3)
   * [Frontend-разработчик 2 [АРХИВ] *(JS, React, Redux)*](https://www.notion.so/sendsay/Frontend-API-75cc5ecc28cd42f4a6f963e2dad88680)
 
 * [Smena](https://smena.space/)
+  * [Тестовое задание DevOps разработчик *(Docker, minikube, Python)*](https://github.com/smenateam/assignments/tree/master/devops)
   * [Python Developer *(Python, Django, PostgreSQL, Docker)*](https://github.com/smenateam/assignments/blob/master/backend/README.md)
   * [JavaScript Developer *(JS, Vue.js)*](https://github.com/smenateam/assignments/blob/master/site-frontend/README.md)
   * [TypeScript Developer *(TS, React)*](https://github.com/smenateam/assignments/blob/master/erp-frontend/README.md)
@@ -375,12 +381,16 @@ This repository is created and maintained by the team and the community of Hexle
 
 * [Инфотекс](https://infotecs.ru/)
   * [Тестовое на стажировку C#, зима 2019-2020 *(C#, ASP.NET)*](https://drive.google.com/drive/folders/1UCx7__WtgzkWF4iFbkFPfc3NNQAqSKqn?usp=sharing)
+  * [Тестовое на стажировку Тестировщик, осень 2022 *(any)*](https://disk.yandex.kz/i/Aew3EEz3GNuxHA)
 
 * [Кошелёк](https://koshelek.ru/)
   * [Junior Frontend Developer *(JS, Vue.js/React/Angular)*](https://drive.google.com/file/d/1k6c0AiXsTko1kfLv3sLtFxV9vIJwpUSd/view?usp=sharing)
 
 * [Маквес Групп](https://www.makves.ru/)
   * [Стажёр-разработчик Frontend *(JS, React)*](https://drive.google.com/file/d/1ZRKa2us1D49l8natOIpO5TYTirKdNssz/view?usp=sharing)
+
+* [НПО Фарватер](https://tsep.pro/)
+  * [Junior+ Frontend Developer *(Vue, React, Canvas)*](https://docs.google.com/document/d/1ReRmhwrI1qwJi2PxhC9GQdP1h9BSt3bKZBaj_oV210s/edit)
 
 * [СКБ Контур](https://kontur.ru/)
   * [Тестовые задания на c# стажировку *(C#)*](https://drive.google.com/drive/folders/185cbL5CzhcYoW2D92D5wHmdd04cDqTYS?usp=sharing)
